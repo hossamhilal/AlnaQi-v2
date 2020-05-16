@@ -1913,6 +1913,14 @@ button:focus {
     line-height: 35px;
 }
 
+.footer-block .content-list a {
+    color: var(--textGrey);
+}
+
+.footer-block .content-list a:hover {
+    color: var(--secondColor);
+}
+
 .footer-popup {
     background: var(--white);
     padding: 12px 20px;
